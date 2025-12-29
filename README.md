@@ -1,2 +1,2 @@
 # DoAnCuoiKy
-Đồ án cuối kỳ C#: Game Console Pac-man
+Đồ án cuối kỳ C#: ticket management
